@@ -1,0 +1,14 @@
+﻿  NPC.cpp
+  Player.cpp
+  main.cpp
+C:\Users\Ryad\source\repos\Pokemon\Pokemon Fire Red Remake\GameEditorLoop.h(39): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Generating code
+  8 of 461 functions ( 1.7%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Pokemon Fire Red Remake.vcxproj -> C:\Users\Ryad\source\repos\Pokemon\Release\Pokemon Fire Red Remake.exe
